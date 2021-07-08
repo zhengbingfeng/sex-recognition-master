@@ -1,0 +1,11 @@
+工具名称                     对应版本
+Python                       3.8.10 
+Numpy                      1.19.5
+Scikit-image              0.18.2
+Scikit-learn                0.24.2
+Torch                         1.9.0
+Torchvision                0.10.0
+Matplotlib                 3.4.2
+XGBoost                    1.4.2
+OpenCV2                   4.5.2
+Pandas                       1.2.5
