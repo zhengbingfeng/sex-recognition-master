@@ -17,9 +17,10 @@
 - 必要的工具：见 配置要求.txt
 
 ## 运行说明
-1.先运行pretreatment.ipynb对原始数据进行处理；
-2.运行hog_svm.ipynb：对数据集进行HOG特征提取再用SVM进行分类；                                                                                                                       
-  运行hog_pca_svm.ipynb：对数据集进行HOG特征提取，再进行特征降维，最后用SVM进行分类；                                                                                                 
-  运行resnet_xgboost.ipynb：对数据集进行ResNet50特征提取再用XGBoost进行分类；                                                                                                       
-  运行resnet_kpca_xgboost.ipynb：对数据集进行ResNet50特征提取，再进行特征降维，最后用XGBoost进行分类；
+
+1. 先运行pretreatment.ipynb对原始数据进行处理；
+2. 运行hog_svm.ipynb：对数据集进行HOG特征提取再用SVM进行分类；                                                                                                                       
+   运行hog_pca_svm.ipynb：对数据集进行HOG特征提取，再进行特征降维，最后用SVM进行分类；                                                                                               
+   运行resnet_xgboost.ipynb：对数据集进行ResNet50特征提取再用XGBoost进行分类；                                                                                                       
+   运行resnet_kpca_xgboost.ipynb：对数据集进行ResNet50特征提取，再进行特征降维，最后用XGBoost进行分类；
   
